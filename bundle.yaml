@@ -1,7 +1,7 @@
 api_version: 0.0.2
 name: google_stock_price_prediction
 edit:
-  image: contiamo/google_stock_predictions
+  image: eu.gcr.io/staging-205711/google_stock_predictions
 functions:
   echo:
     image: functions/alpine:latest
