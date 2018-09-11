@@ -1,1 +1,1 @@
-# google_stock_price_prediction# google_stock_price_prediction
+Using an LSTM to predict Google stock evolution.
