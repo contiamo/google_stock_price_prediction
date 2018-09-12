@@ -1,1 +1,1 @@
-Using an LSTM to predict Google stock evolution.
+Using an LSTM to predict Google stock evolution, a simple example.
